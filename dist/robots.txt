@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://endearing-bonbon-e8d258.netlify.app/sitemap.xml
+
