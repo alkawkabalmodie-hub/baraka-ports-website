@@ -332,7 +332,7 @@ function App() {
           </div>
           
           <div className="border-t border-blue-600 mt-8 pt-8 text-center text-blue-200">
-            <p>&copy; 2024 بركة المواني للتخليص الجمركي. جميع الحقوق محفوظة.</p>
+            <p>&copy; 2024 بركة المواني للتخليص الجمركي. جميع الحقوق محفوظة. تصميم Ahmed Ali</p>
           </div>
         </div>
       </footer>
